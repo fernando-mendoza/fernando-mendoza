@@ -11,4 +11,8 @@ Skills: Go / Python / JS / Kubernetes / Docker / Bash
 - 📫 How to reach me: me@fernandomendoza.dev 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernando-mendoza-0b438b1a6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fernandomendoza.dev)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fernando-mendoza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernando-mendoza-0b438b1a6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fernandomendoza.dev)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-mendoza&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/fernando-mendoza)  
