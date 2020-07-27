@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Fernando
+![](https://i.pinimg.com/originals/a1/9d/14/a19d149acd516549f0a2ac035b88cd35.gif)
 
-<!--
-**fernando-mendoza/fernando-mendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to learn about automatization and high performance applications, one of my passions is to work with extremely talented people and collaborate to make products that would make an immediate impact.
 
-Here are some ideas to get you started:
+Skills: Go / Python / JS / Kubernetes / Docker / Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some personal projects. 
+- 🌱 I’m currently learning all related with cloud native ecosystem. 
+- 👯 I’m looking to collaborate on cool Startup. 
+- 📫 How to reach me: me@fernandomendoza.dev 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernando-mendoza-0b438b1a6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fernandomendoza.dev)  
