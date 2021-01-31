@@ -5,7 +5,7 @@ I like to learn about automatization and high performance applications, one of m
 
 Skills: Go / Python / JS / Kubernetes / Docker / Bash
 
-- 🔭 I’m currently working on some personal projects. 
+- 🔭 I’m currently working at Deloitte as Cybersecurity trainee.
 - 🌱 I’m currently learning all related with cloud native ecosystem. 
 - 👯 I’m looking to collaborate on cool Startup. 
 - 📫 How to reach me: me@fernandomendoza.dev 
