@@ -3,7 +3,7 @@
 
 I like to learn about automatization and high performance applications, one of my passions is to work with extremely talented people and collaborate to make products that would make an immediate impact.
 
-Skills: Go / Python / JS / Kubernetes / Docker / Bash
+Skills: Go / Python / JS / Kubernetes / Docker / Bash /
 
 - 🔭 I’m currently working at Deloitte as Cybersecurity Consultant(TH).
 - 🌱 I’m currently learning all related with cloud native ecosystem. 
