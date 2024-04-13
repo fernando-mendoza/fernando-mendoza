@@ -9,5 +9,3 @@ I love learn about automatization and high performance applications and security
 - 📫 How to reach me: me@fernandomendoza.dev 
 
 DFIR NINJA 🐱‍👤🤘
-
-![Profile views](https://gpvc.arturio.dev/fernando-mendoza) 
