@@ -6,6 +6,6 @@ I love learn about automatization and high performance applications and security
 - 🔭 I’m currently working as Cyber Security Engineer(Incident Response and Threat Hunting).
 - 🌱 I’m currently learning all related with cloud native ecosystem. 
 - 👯 I’m looking to collaborate on cool people. 
-- 📫 How to reach me: me@fernandomendoza.dev 
+- 📫 How to reach me:
 
 DFIR NINJA 🐱‍👤🤘
