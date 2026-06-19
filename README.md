@@ -3,7 +3,7 @@
 
 I love learn about automatization and high performance applications and security, one of my passions is to work with extremely talented people and collaborate to make products that would make an immediate impact.
 
-- 🔭 I’m currently working as Cyber Security Engineer(Incident Response and Threat Hunting).
+- 🔭 I’m currently working as site reliability engineer.
 - 🌱 I’m currently learning all related with cloud native ecosystem. 
 - 👯 I’m looking to collaborate on cool people. 
 - 📫 How to reach me:
